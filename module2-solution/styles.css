@@ -9,7 +9,7 @@ body {
 }
 h1 {
 	text-align: center;
-	margin-bottom:20px;
+	margin-bottom:10px;
 
 }
 
@@ -18,44 +18,47 @@ h1 {
 
 }
 p {
-	padding:5px;
-	padding-top:40px;
+	padding:40px 5px 5px 5px;
 	height:180px;
 	margin-left: 10px;
 	margin-right: 10px;
-	border:1px solid black;
+	border:2px solid black;
+	overflow:hidden;
 	background-color: #E5E7E9;
 
 }
 
 #Chicken {
-	position:absolute;
-	top:-4px;
-	right:0px;
-	padding:3px;
-	height:30px;
-	width:90px;
-	font-size: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+    height: 35px;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
 	background-color:#ABEBC6; 
 }
 #Beef {
-	position:absolute;
-	top:-4px;
-	right:0px;
-	padding:3px;
-	height:30px;
-	width:90px;
-	font-size: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+    height: 35px;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
 	background-color:#FCF3CF ; 
 }
 #Sushi {
-	position:absolute;
-	top:-4px;
-	right:0px;
-	padding:3px;
-	height:30px;
-	width:90px;
-	font-size: 20px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 35px;
+	width: 120px;
+	padding: 10px;
+	font-weight: bold;
+	text-align: center;
 	background-color:#D6EAF8; 
 }
 /*Desktop styling*/
