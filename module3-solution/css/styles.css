@@ -1,0 +1,81 @@
+#header-nav .navbar-brand {
+	padding:0;
+	padding-bottom:
+	height:90px; 
+	
+}
+
+#header-nav .navbar-brand>a h1 {
+	margin: 10px 20px 10px 20px;
+	padding-bottom: 1px:;
+	text-decoration: none;
+	color: #000000;
+}
+
+#header-nav {
+	
+}
+
+#OurMenu p { 
+	color: #000000;
+	font-size: 2em;
+	text-align: center;
+	text-decoration: none;
+	display:block;
+	
+
+ }
+ }
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#OurMenu a:hover, #OurMenu a:focus {
+  text-decoration: none;
+  clear: both;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -14px;
+}
+
+#nav-list a {
+  color: #000000;
+  text-align: center;
+}
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#Chicken{
+	position: relative;
+}
+#title {
+	font-size: 2em;
+	text-align: center;
+	color:#000000;
+}
+
+#Chicken p {
+	margin:auto;
+	background: #E7E7E7;
+	padding: 10px;
+	text-align: center;
+	color:#000000;
+	width:100%;
+}	
+
+/********** small devices only **********/
+@media (min-width: 767px) {
+
+#Chicken {
+	margin-right: 20px;
+	margin-left: 20px;
+}	
